@@ -23,3 +23,4 @@ DOI: https://doi.org/10.1590/2446-4740.01817
 
 # Example of the proposed method
 <img src="example.jpg">
+(a) Original ECG signal and (b) its spectrogram; (c) noisy ECG signal and (d) its spectrogram; and (e) denoised ECG signal by proposed method and (f) its spectrogram.
