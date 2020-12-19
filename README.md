@@ -1,0 +1,2 @@
+# power-line-interference-removal-in-ECG
+Introduction The analysis of electrocardiogram (ECG) signals allows the experts to diagnosis several cardiac disorders. However, the accuracy of such diagnostic depends on the signals quality. In this paper it is proposed a simple method for power-line interference (PLI) removal based on the wavelet decomposition, without the use of thresholding techniques.
