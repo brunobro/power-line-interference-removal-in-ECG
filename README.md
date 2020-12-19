@@ -17,4 +17,9 @@ Considering the relative error metrics and runtime, the best wavelet function fo
 
 The proposed method can be used for PLI removal in ECG signals with superior performance than thresholding and notch filter techniques. Also, it can be applied for high frequencies denoising even without a priori frequencies knowledge.
 
-The mentioned paper can be see here: https://www.scielo.br/scielo.php?pid=S2446-47402018000100073&script=sci_arttext. DOI: https://doi.org/10.1590/2446-4740.01817
+# Reference
+The mentioned paper can be see here: https://www.scielo.br/scielo.php?pid=S2446-47402018000100073&script=sci_arttext
+DOI: https://doi.org/10.1590/2446-4740.01817
+
+# Example of the proposed method
+<img src="example.jpg">
