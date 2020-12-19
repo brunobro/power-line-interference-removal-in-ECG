@@ -1,0 +1,360 @@
+ECG sampled at 500 Hz
+Approximate number of heart beats: 100
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 60 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.22173 -0.261799 0 0.261799 1.74533] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.25 0.1 0.1 0.1 0.4]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -9.7764
+ECG sampled at 500 Hz
+Approximate number of heart beats: 115
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 100 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.38815 -0.337982 0 0.337982 1.98308] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.322749 0.129099 0.129099 0.129099 0.516398]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -5.855
+ECG sampled at 500 Hz
+Approximate number of heart beats: 115
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 45 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.13695 -0.226725 0 0.226725 1.62421] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.216506 0.0866025 0.0866025 0.0866025 0.34641]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: 3.7233
+ECG sampled at 500 Hz
+Approximate number of heart beats: 200
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 82 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.32096 -0.306055 0 0.306055 1.88709] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.292261 0.116905 0.116905 0.116905 0.467618]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -1.2545
+ECG sampled at 500 Hz
+Approximate number of heart beats: 200
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 98 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.38116 -0.334585 0 0.334585 1.97309] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.319505 0.127802 0.127802 0.127802 0.511208]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: 10.855
+ECG sampled at 500 Hz
+Approximate number of heart beats: 230
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 142 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.51534 -0.402752 0 0.402752 2.16477] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.384599 0.15384 0.15384 0.15384 0.615359]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -18.5292
+ECG sampled at 500 Hz
+Approximate number of heart beats: 110
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 90 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.35207 -0.320637 0 0.320637 1.93152] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.306186 0.122474 0.122474 0.122474 0.489898]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -5.8951
+ECG sampled at 500 Hz
+Approximate number of heart beats: 120
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 132 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.48793 -0.388311 0 0.388311 2.12561] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.37081 0.148324 0.148324 0.148324 0.593296]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -11.1707
+ECG sampled at 500 Hz
+Approximate number of heart beats: 150
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 71 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.27424 -0.284788 0 0.284788 1.82035] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.271953 0.108781 0.108781 0.108781 0.435125]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: 1.0041
+ECG sampled at 500 Hz
+Approximate number of heart beats: 300
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 89 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.3483 -0.318851 0 0.318851 1.92614] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.30448 0.121792 0.121792 0.121792 0.487169]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -12.6829
+ECG sampled at 500 Hz
+Approximate number of heart beats: 90
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 112 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.42805 -0.357686 0 0.357686 2.04007] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.341565 0.136626 0.136626 0.136626 0.546504]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -26.1265
+ECG sampled at 500 Hz
+Approximate number of heart beats: 75
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 88 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.34449 -0.317055 0 0.317055 1.9207] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.302765 0.121106 0.121106 0.121106 0.484424]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -24.3833
+ECG sampled at 500 Hz
+Approximate number of heart beats: 98
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 102 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.39504 -0.341345 0 0.341345 1.99292] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.32596 0.130384 0.130384 0.130384 0.521536]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -6.9497
+ECG sampled at 500 Hz
+Approximate number of heart beats: 98
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 102 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.39504 -0.341345 0 0.341345 1.99292] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.32596 0.130384 0.130384 0.130384 0.521536]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -11.9618
+ECG sampled at 500 Hz
+Approximate number of heart beats: 114
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 143 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.518 -0.404167 0 0.404167 2.16857] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.385951 0.15438 0.15438 0.15438 0.617522]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -30.1944
+ECG sampled at 500 Hz
+Approximate number of heart beats: 207
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 48 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.15544 -0.23416 0 0.23416 1.65063] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.223607 0.0894427 0.0894427 0.0894427 0.357771]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -20.4808
+ECG sampled at 500 Hz
+Approximate number of heart beats: 305
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 83 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.32497 -0.307916 0 0.307916 1.89282] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.294038 0.117615 0.117615 0.117615 0.470461]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -17.8745
+ECG sampled at 500 Hz
+Approximate number of heart beats: 114
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 112 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.42805 -0.357686 0 0.357686 2.04007] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.341565 0.136626 0.136626 0.136626 0.546504]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -25.8056
+ECG sampled at 500 Hz
+Approximate number of heart beats: 201
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 32 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.04406 -0.191191 0 0.191191 1.49151] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.182574 0.0730297 0.0730297 0.0730297 0.292119]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -24.1871
+ECG sampled at 500 Hz
+Approximate number of heart beats: 201
+Measurement noise amplitude: 1.000000e-01 
+Heart rate mean: 32 bpm
+Heart rate std: 1 bpm
+LF/HF ratio: 0.5
+Internal sampling frequency: 500
+      P  Q  R  S  T
+ti = [-1.04406 -0.191191 0 0.191191 1.49151] radians
+ai = [1.2 -5 30 -7.5 0.75]
+bi = [0.182574 0.0730297 0.0730297 0.0730297 0.292119]
+Integrating dynamical system
+
+d =
+
+     8
+
+SNR: -20.7365
